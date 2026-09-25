@@ -4,6 +4,15 @@
 
 Ghost2DLL is an experimental project aimed at bringing **Vampire: The Masquerade – Bloodlines** to PC VR while keeping the original game and its engine as the foundation.
 
+## Development preview
+
+Early footage from the current **Ghost2DLL VTMB VR Injector** development build.
+
+[![Ghost2DLL VTMB VR Injector - Development Preview](https://img.youtube.com/vi/6mkSutSAaLg/maxresdefault.jpg)](https://youtu.be/6mkSutSAaLg)
+
+▶️ **[Watch the development preview on YouTube](https://youtu.be/6mkSutSAaLg)**
+
+> **Work in progress.** This footage shows an early development build and does not represent final VR rendering, interaction or performance.
 The project is currently at a **very early stage of development**.
 
 This is a hobby project developed in my spare time, driven by my love for Vampire: The Masquerade and by the belief that Bloodlines could be an exceptional game to experience in VR.
