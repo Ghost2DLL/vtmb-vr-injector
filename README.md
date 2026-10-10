@@ -42,3 +42,12 @@ Vampire: The Masquerade – Bloodlines
                 |
                 v
               PC VR
+Required Unofficial Patch
+
+BloodlinesVR was developed and tested with Vampire: The Masquerade – Bloodlines Unofficial Patch 11.5.
+
+For compatibility, use version 11.5 rather than the newer 12.0 release.
+
+The original 11.5 installer is available in this repository’s Releases section, credited to Wesp5 and the original contributors.
+
+A legitimate copy of Vampire: The Masquerade – Bloodlines is required.
