@@ -18,6 +18,7 @@ Development Preview
 Ghost2DLL VTMB VR Injector — Development Preview
 
 Watch the development preview on YouTube
+https://youtu.be/-fAi8ylN8nw?si=tRM7wgnC177xE7Ur
 
 The video shows an early development build; rendering, interaction and performance are still being improved.
 
