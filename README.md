@@ -1,5 +1,34 @@
 # Ghost2DLL — VTMB VR Injector
 
+First Playable Release Available!
+
+The first playable version of BloodlinesVR is now available for download!
+
+After two weeks of development, Vampire: The Masquerade – Bloodlines can finally be experienced in immersive stereoscopic VR using Meta Quest 3 and Virtual Desktop.
+
+This is an early experimental release, and there’s still a lot of work to do.
+
+Current limitations:
+
+* Performance and FPS still need significant improvements.
+* Some pre-rendered sequences are not yet properly handled in VR.
+* Certain interactions, particularly with in-game computers, still require keyboard input.
+* Additional improvements to VR controls, rendering and gameplay are planned.
+
+Tested configuration:
+
+* Vampire: The Masquerade – Bloodlines (Steam)
+* Unofficial Patch 11.5
+* Italian translation mod
+* Meta Quest 3
+* Virtual Desktop
+
+Download
+
+The first playable build is available in the Releases section of this repository.
+
+Important: This is an experimental work-in-progress build, not a finished VR conversion. Feedback and bug reports are welcome!
+
 ### Experimental PC VR injector for Vampire: The Masquerade – Bloodlines
 
 Ghost2DLL is an experimental project aimed at bringing **Vampire: The Masquerade – Bloodlines** to PC VR while keeping the original game and its engine as the foundation.
