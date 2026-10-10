@@ -9,6 +9,7 @@ First Playable Release — Available Now!
 The first experimental playable build is available to download. After two weeks of development, Bloodlines can be experienced in immersive stereoscopic VR using Meta Quest 3 and Virtual Desktop.
 
 Download BloodlinesVR — First Playable Release
+https://github.com/Ghost2DLL/vtmb-vr-injector/releases/tag/up-11.5-archive
 
 This is an early experimental build, not a finished VR conversion. Expect bugs, low frame rates and incomplete interactions. Feedback and bug reports are welcome.
 
